@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ChrisMulvanyGH/fm-qr-code-component](https://github.com/ChrisMulvanyGH/fm-qr-code-component)
+- Live Site URL: [https://chrismulvanygh.github.io/fm-qr-code-component/](https://chrismulvanygh.github.io/fm-qr-code-component/)
 
 ## My process
 
@@ -52,6 +52,6 @@ knowledge.
 ## Author
 
 - Website - [Chris Mulvany](https://chrismulvany.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/ChrisMulvanyGH)
-- Twitter - [@yourusername](https://twitter.com/ChrisMulvany)
+- Frontend Mentor - [@ChrisMulvanyGH](https://www.frontendmentor.io/profile/ChrisMulvanyGH)
+- Twitter - [@ChrisMulvany](https://twitter.com/ChrisMulvany)
 
